@@ -1,5 +1,5 @@
 // By WhatDamon, CozyUI Ex
-// Unicode: /ue498-/ue499
+// Unicode: /ue400-/ue4ff
 
 {
     "providers": [
@@ -9,7 +9,7 @@
             "height": 36,
             "ascent": 31,
             "chars": [
-                "\ue498"
+                "\ue49a"
             ]
         },
         {
@@ -18,7 +18,7 @@
             "height": 36,
             "ascent": 31,
             "chars": [
-                "\ue499"
+                "\ue49b"
             ]
         }
     ]
