@@ -13,8 +13,9 @@ If you're a new contributor, please read this document to clarify the considerat
   - [Getting Started.](#getting-started)
   - [Making textures.](#making-textures)
   - [Test.](#test)
+  - [Optimize.](#optimize)
   - [Pull request.](#pull-request)
-
+  
 - [**Publicizing the project.**](#publicizing-the-project)
 - [**Styleguides.**](#styleguides)
   - [Commit messages.](#commit-messages)
@@ -81,6 +82,20 @@ More on creating a resource pack: https://minecraft.wiki/w/Tutorial:Creating_a_r
 
 After exporting the image and placing it in the corresponding location, load the resource pack and open the corresponding user interface to see if there is any problem.
 
+### Optimize.
+
+If the size of a single PSD file exceeds **25MiB**, you can consider using **xz format (LZMA2)** to compress it after editing without directly destroying the layer data.
+If the size of a single PSD file still exceeds **100MiB** after compression, the GitHub repository will reject the commit request and require the use of LFS, in which case you have the following solution:
+
+1. Remove some useless layers, such as hidden layers.
+
+2. Remove useless metadata (if any) from the PSD file.
+
+3. Split the PSD file (especially for texture atlases)
+
+For splitting PSD files, you need to make sure that the PSD is named something like `xxx.part1.psd`, and you need a documentation file named something like `xxx.psd.md` in the same directory as those split PSD files to explain how to merge those project files!
+We don't use Git LFS unless it's necessary, so please contact the project owner in advance if none of the above options solves the problem of oversized files!
+
 ### Pull request.
 
 Please [fork this repository](https://github.com/WhatDamon/cozyui-ex/fork) before pulling the request, you need to commit your changes to the forked repository, after making sure it's done, please follow the steps below...
@@ -120,7 +135,9 @@ or...
 [TYPE]([MODNAME]): [MESSAGE]
 ~~~
 
-| **[TYPE]** | Descriptions                                                 |
+In general, the former commit message style is preferred, and you are free to use the second style, but there is no third style to choose from.
+
+- | **[TYPE]** | Descriptions                                                 |
 | ---------- | ------------------------------------------------------------ |
 | `feat`     | Add new mod user interface                                   |
 | `fix`      | Fix some problems with existing textures, or just modified textures |
@@ -129,9 +146,9 @@ or...
 | `workflow` | Changes to Github Actions or production workflows            |
 | `chore`    | Others                                                       |
 
-**[MODNAME]**: The name (or namespace) of the target mod. *(optional)*
+- **[MODNAME]**: The name (or namespace) of the target mod. *(optional)*
 
-**[MESSAGE]:** Description of the modification.
+- **[MESSAGE]:** Description of the modification.
 
 ### **Files**
 
@@ -164,6 +181,6 @@ cozyui-ex /
 
 ## FAQ
 
-Q: Can I use software like paint.net to edit or create textures?
+Q: Can I use software like paint.net to create or edit textures?
 
 *A: Yes, but you need to make sure that you have converted the project files to PSD files and that you have kept the layers!*
