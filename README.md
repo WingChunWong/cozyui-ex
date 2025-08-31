@@ -7,6 +7,8 @@
 > ⚠️ WARNING!!!
 >
 > Still in progress, some details may not be handled very well, please forgive 😥!
+>
+> **This project is temporary stop. [Learn more](https://github.com/WhatDamon/cozyui-ex/discussions/11).**
 
 > Remember, please **download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first**, then load this resource pack as follows...
 >
