@@ -1,15 +1,18 @@
+[简体中文](README_cn.md) | English
+
 # 🥳 CozyUI Ex, an unofficial extended resource pack for CozyUI+
 
 ![Cover](https://cdn.modrinth.com/data/jrC5r3Mp/images/37ebbcdd5ee29548fd194f5e292258055825afa7.png)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/WhatDamon/cozyui-ex?style=for-the-badge&logo=github) [![Last commit](https://img.shields.io/github/last-commit/WhatDamon/cozyui-ex?style=for-the-badge&logo=github)](https://github.com/WhatDamon/cozyui-ex/commits/main/) [![Autopack Status](https://img.shields.io/github/actions/workflow/status/WhatDamon/cozyui-ex/autopack.yml?style=for-the-badge&label=autopack%20build&logo=github)](https://github.com/WhatDamon/cozyui-ex/actions/workflows/autopack.yml) [![Modrinth Downloads](https://img.shields.io/modrinth/dt/cozyui-ex?style=for-the-badge&logo=modrinth)](https://modrinth.com/resourcepack/cozyui-ex) ![Modrinth Followers](https://img.shields.io/modrinth/followers/cozyui-ex?style=for-the-badge&logo=modrinth) ![Modrinth Version](https://img.shields.io/modrinth/v/cozyui-ex?style=for-the-badge&logo=modrinth&label=modrinth%20latest)
 
-> ⚠️ WARNING!!!
+>[!WARNING]
 >
 > Still in progress, some details may not be handled very well, please forgive 😥!
 >
 > **This project is temporary stop. [Learn more](https://github.com/WhatDamon/cozyui-ex/discussions/11).**
 
+>[!IMPORTANT]
 > Remember, please **download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first**, then load this resource pack as follows...
 >
 > ![Example](https://cdn.modrinth.com/data/jrC5r3Mp/images/c7e8d2e10416e33d8a8c35121849be9b9f1e366d.png)
