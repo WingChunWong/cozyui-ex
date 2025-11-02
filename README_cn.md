@@ -1,3 +1,4 @@
+简体中文 | [English](README.md)
 # 🥳 CozyUI Ex，一个非官方的 CozyUI+ 扩展资源包
 
 ![封面](https://cdn.modrinth.com/data/jrC5r3Mp/images/37ebbcdd5ee29548fd194f5e292258055825afa7.png)
@@ -13,7 +14,7 @@
 >
 > 仍在开发中，部分细节可能处理得不够完善，敬请谅解 😥！
 >
-> **此项目已暂停。 [了解更多](https://github.com/WhatDamon/cozyui-ex/discussions/11)。**
+> **此项目已暂停，[了解更多](https://github.com/WhatDamon/cozyui-ex/discussions/11)。**
 
 > [!IMPORTANT]
 > 请记住，务必**先下载 [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus)**，然后按如下方式加载此资源包...
