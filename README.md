@@ -1,6 +1,6 @@
-[简体中文](README_ZHCN.md) | English
-
 # 🥳 CozyUI Ex, an unofficial extended resource pack for CozyUI+
+
+**English** | [简体中文](README_ZHCN.md)
 
 ![Cover](https://cdn.modrinth.com/data/jrC5r3Mp/images/37ebbcdd5ee29548fd194f5e292258055825afa7.png)
 
@@ -11,13 +11,12 @@
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/cozyui-ex?style=for-the-badge&logo=modrinth) 
 ![Modrinth Version](https://img.shields.io/modrinth/v/cozyui-ex?style=for-the-badge&logo=modrinth&label=modrinth%20latest)
 
->[!WARNING]
+> ⚠️ WARNING!!!
 >
 > Still in progress, some details may not be handled very well, please forgive 😥!
 >
 > **This project is temporary stop. [Learn more](https://github.com/WhatDamon/cozyui-ex/discussions/11).**
 
->[!IMPORTANT]
 > Remember, please **download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first**, then load this resource pack as follows...
 >
 > ![Example](https://cdn.modrinth.com/data/jrC5r3Mp/images/c7e8d2e10416e33d8a8c35121849be9b9f1e366d.png)
@@ -42,7 +41,7 @@ Check it out here: https://github.com/WhatDamon/cozyui-ex/wiki/FAQ
 
 ## 😎 Special Thanks
 
-- [Fogg05](https://modrinth.com/user/Fogg05): the original creator of CozyUI+
+- [Fogg05](https://modrinth.com/user/Fogg05): the original creator of CozyUI+, RIP 2025
 
 ## 📜 License:
 
