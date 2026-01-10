@@ -1,4 +1,4 @@
-[简体中文](README_cn.md) | English
+[简体中文](README_ZHCN.md) | English
 
 # 🥳 CozyUI Ex, an unofficial extended resource pack for CozyUI+
 
