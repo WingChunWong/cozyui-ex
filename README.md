@@ -1,8 +1,15 @@
 # 🥳 CozyUI Ex, an unofficial extended resource pack for CozyUI+
 
+**English** | [简体中文](README_ZHCN.md)
+
 ![Cover](https://cdn.modrinth.com/data/jrC5r3Mp/images/37ebbcdd5ee29548fd194f5e292258055825afa7.png)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/WhatDamon/cozyui-ex?style=for-the-badge&logo=github) [![Last commit](https://img.shields.io/github/last-commit/WhatDamon/cozyui-ex?style=for-the-badge&logo=github)](https://github.com/WhatDamon/cozyui-ex/commits/main/) [![Autopack Status](https://img.shields.io/github/actions/workflow/status/WhatDamon/cozyui-ex/autopack.yml?style=for-the-badge&label=autopack%20build&logo=github)](https://github.com/WhatDamon/cozyui-ex/actions/workflows/autopack.yml) [![Modrinth Downloads](https://img.shields.io/modrinth/dt/cozyui-ex?style=for-the-badge&logo=modrinth)](https://modrinth.com/resourcepack/cozyui-ex) ![Modrinth Followers](https://img.shields.io/modrinth/followers/cozyui-ex?style=for-the-badge&logo=modrinth) ![Modrinth Version](https://img.shields.io/modrinth/v/cozyui-ex?style=for-the-badge&logo=modrinth&label=modrinth%20latest)
+![GitHub Repo stars](https://img.shields.io/github/stars/WhatDamon/cozyui-ex?style=for-the-badge&logo=github) 
+[![Last commit](https://img.shields.io/github/last-commit/WhatDamon/cozyui-ex?style=for-the-badge&logo=github)](https://github.com/WhatDamon/cozyui-ex/commits/main/) 
+[![Autopack Status](https://img.shields.io/github/actions/workflow/status/WhatDamon/cozyui-ex/autopack.yml?style=for-the-badge&label=autopack%20build&logo=github)](https://github.com/WhatDamon/cozyui-ex/actions/workflows/autopack.yml) 
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/cozyui-ex?style=for-the-badge&logo=modrinth)](https://modrinth.com/resourcepack/cozyui-ex) 
+![Modrinth Followers](https://img.shields.io/modrinth/followers/cozyui-ex?style=for-the-badge&logo=modrinth) 
+![Modrinth Version](https://img.shields.io/modrinth/v/cozyui-ex?style=for-the-badge&logo=modrinth&label=modrinth%20latest)
 
 > ⚠️ WARNING!!!
 >
@@ -34,7 +41,7 @@ Check it out here: https://github.com/WhatDamon/cozyui-ex/wiki/FAQ
 
 ## 😎 Special Thanks
 
-- [Fogg05](https://modrinth.com/user/Fogg05): the original creator of CozyUI+
+- [Fogg05](https://modrinth.com/user/Fogg05): the original creator of CozyUI+, RIP 2025
 
 ## 📜 License:
 
